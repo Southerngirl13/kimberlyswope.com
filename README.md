@@ -1,9 +1,11 @@
+
+# Welcome to My Portfolio Site
+
 <h1 align="center">
   <br>
   <img src="https://github.com/Southerngirl13/TriviaGame/blob/master/assets/images/breakin.jpg" width="60%">
 </h1>
 
-# Welcome to My Portfolio Site
 <h3 align="center">
 Click here to visit:   https://southerngirl13.github.io/kjs-portfolio/index.html
 </h3>
@@ -26,9 +28,9 @@ Your updated site should have the following content:
 - Your name
 - Links to your GitHub profile & LinkedIn page as well as your email address
 - List of projects. For each project make sure you have the following:
-* Project title
-* Link to the deployed version
-* Link to the code on GitHub
+** Project title
+** Link to the deployed version
+** Link to the code on GitHub
 ### DESIGN REQUIRED
 
 - Mobile-friendliness: you don't need advanced responsive styles, but you should ensure that your portfolio page is still readable on different screen sizes
