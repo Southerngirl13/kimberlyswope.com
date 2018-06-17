@@ -25,12 +25,15 @@ Click here to visit:   https://southerngirl13.github.io/kjs-portfolio/index.html
 
 ### CONTENT REQUIRED
 
-1. Your name
-2. Links to your GitHub profile & LinkedIn page as well as your email address
-3. List of projects. For each project make sure you have the following:
-* Project title
-* Link to the deployed version
-* Link to the code on GitHub
+  1. Your name
+  2. Links to your GitHub profile & LinkedIn page as well as your email address
+  3. List of projects. For each project make sure you have the following:
+     * Headline - the title of the article
+     * Summary - a short summary of the article
+     * URL - the url to the original article
+     * Feel free to add more content to your database (photos, bylines, and so on).
+
+
 ### DESIGN REQUIRED
 
 1. Mobile-friendliness: you don't need advanced responsive styles, but you should ensure that your portfolio page is still readable on different screen sizes
