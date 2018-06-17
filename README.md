@@ -2,10 +2,11 @@
   <br>
   <img src="https://github.com/Southerngirl13/TriviaGame/blob/master/assets/images/breakin.jpg" width="60%">
 </h1>
-# Welcome to my Portfolio Site
-<h2 align="center">
+
+# Welcome to My Portfolio Site
+<h3 align="center">
 Click here to visit:   https://southerngirl13.github.io/kjs-portfolio/index.html
-</h2>
+</h3>
 <br>
 
 
