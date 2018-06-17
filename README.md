@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Southerngirl13/kjs-portfolio/blob/master/img/site.png" width="60%">
+  <img src="https://github.com/Southerngirl13/kjs-portfolio/blob/master/img/site.png" width="70%">
 </h1>
 
 <h3 align="center">
@@ -13,21 +13,22 @@ Click here to visit:   https://southerngirl13.github.io/kjs-portfolio/index.html
 
 
 # Portfolio Project Mandatories
-* Update portfolio page and other materials to build toward being employer competitive.
-* Pin some repos that you want to share
+* Update portfolio page and other materials to build toward being employer competitive
+* Pin 6 repos you want to share
 * Navigate to your GitHub Profile
 * Click "Customize your pinned repositories"
 * Click the "Repositories you contribute to" checkbox (this will allow you to "pin" projects even if you aren't the "owner")
 * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
 * Make sure each of these projects is deployed and add a link to the deployed project in their README files
-* Revisit your portfolio page
-* Open up your old portfolio page
+* Revisit your portfolio page & update with your new skills
+
 
 ### CONTENT REQUIRED
 
   1. Your name
-  2. Links to your GitHub profile & LinkedIn page as well as your email address
-  3. List of projects. For each project make sure you have the following:
+  2. Links to your GitHub profile & LinkedIn page 
+  3. Include your email address
+  4. List of projects. For each project make sure you have the following:
      * Headline - the title of the article
      * Summary - a short summary of the article
      * URL - the url to the original article
