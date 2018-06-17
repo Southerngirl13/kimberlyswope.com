@@ -24,18 +24,18 @@ Click here to visit:   https://southerngirl13.github.io/kjs-portfolio/index.html
 * Open up your old portfolio page
 
 ### CONTENT REQUIRED
-Your updated site should have the following content:
-- Your name
-- Links to your GitHub profile & LinkedIn page as well as your email address
-- List of projects. For each project make sure you have the following:
-** Project title
-** Link to the deployed version
-** Link to the code on GitHub
+
+1. Your name
+2. Links to your GitHub profile & LinkedIn page as well as your email address
+3. List of projects. For each project make sure you have the following:
+* Project title
+* Link to the deployed version
+* Link to the code on GitHub
 ### DESIGN REQUIRED
 
-- Mobile-friendliness: you don't need advanced responsive styles, but you should ensure that your portfolio page is still readable on different screen sizes
-- Readability: make sure the font size is large enough to read, and that the colors don't cause eye strain.
-- At least 3 deployed projects
-- External content including LinkedIn
-- Update project README files for each project 
-- Competitive design
+1. Mobile-friendliness: you don't need advanced responsive styles, but you should ensure that your portfolio page is still readable on different screen sizes
+2. Readability: make sure the font size is large enough to read, and that the colors don't cause eye strain.
+3. At least 3 deployed projects
+4. External content including LinkedIn
+5. Update project README files for each project 
+6. Competitive design
