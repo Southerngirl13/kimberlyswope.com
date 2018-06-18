@@ -2298,8 +2298,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg.jpg) center;
-  background-size: 65%;
+  /* background: url(../img/header-bg.jpg) center; */
+  background-color: #04091e;
+  background-size: 100%;
+
 }
 
 .banner-area .overlay-bg {
@@ -2312,7 +2314,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-content h1 {
-  font-size: 75px;
+  font-size: 85px;
   font-weight: 200;
   line-height: 2em;
   margin-top: 90px;
