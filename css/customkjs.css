@@ -154,3 +154,142 @@ margin-top: -5px;
 .lnr-graduation-hat {
   font-size: 110px;
 }
+
+.printsubtitle {
+  margin-top: 65px;
+  margin-bottom: 65px;
+}
+
+.printtitle {
+  color: white;
+  letter-spacing: 1px;
+  font-size: 80px;
+  margin-top: 80px;
+}
+
+
+
+.kim {
+  background-color: #4099FF;
+  margin-top: -60px;
+}
+
+.projectname {
+  /* background-color: #3B5998; */
+  /* margin-top: 15px; */ 
+  text-align: center;
+  color:#777777;
+  /* font-size: 20px; */
+  margin-bottom: -5px;
+
+}
+
+.projectprintname {
+  margin-top: 20px;
+  text-align: center;
+  color:#777777;
+  margin-bottom: -5px;
+}
+
+
+iframe {
+  -ms-transform:scale(0.50);
+  -moz-transform:scale(0.50);
+  -o-transform: scale(0.50);
+  -webkit-transform: scale(0.50);
+  transform:scale(0.50);
+  /* border: 5px solid #777777; */
+ 
+
+  -moz-box-shadow: 4px 4px 14px #777;
+  -webkit-box-shadow: 4px 4px 14px #777;
+  box-shadow: 6px 6px 24px #777;
+ 
+}
+
+iframe {
+  position:relative;
+  top:-240px;
+  left:-240px; 
+  height:825px; 
+
+  /* width:1200px; */
+ 
+  /* background-color: red; */
+
+  /* border-top: #c00 1px dotted;
+  border-right: #c00 2px dotted;
+  border-left: #c00 2px dotted;
+  border-bottom: #c00 4px dotted; */
+}
+
+.kimmy {
+  /* background-color: #4099FF; */
+  margin-left: 2000px;
+
+  top: -550px;
+  display: block;
+  
+  position:relative;
+
+  left: -240px; 
+  height: 825px;
+  width: 1200px;
+  padding: 10px;
+}
+
+.kimmy2 {
+  /* background-color: #4099FF; */
+  margin-left: 2000px;
+  top: -800px;
+  display: block;
+  position:relative;
+  left: -240px; 
+  height: 825px;
+  width: 1200px;
+  padding: 10px;
+}
+
+.primary-btn2 {
+  /* background-color: #d4d1d1; */
+  /* background-color: #d1d2d5;*/
+  background-color: #e2e3e5; 
+  padding-top: 5px;
+  padding-right: 17px;
+  padding-bottom: 5px;
+  padding-left: 17px;
+ letter-spacing: .5px;
+  color: white;
+  margin-top: -5px;
+ 
+  /* border: 1px solid;
+  padding: 10px; */
+  /* box-shadow: 5px 5px #888888; */
+  /* box-shadow: 3px 3px #a5a2a2;  */
+  /* box-shadow: 17px 17px 13px #e6e1e1; */
+}
+
+.printtitle2 {
+  color: white;
+  letter-spacing: 1px;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: -4000px;
+}
+
+.projdescription {
+  align-content: center;
+  margin-bottom: -800px;
+  margin-top: -50px;
+}
+
+.img-fluid1 {
+  margin-top: -80px;
+}
+
+.disclaimer {
+  font-size: 10px;
+  margin-top: -20px;
+}
+
+
