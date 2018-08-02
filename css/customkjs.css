@@ -61,9 +61,7 @@
   background-color: #04091e;
 }
 
-.banner-area relative {
 
-}
 .banner-area .overlay-bg {
   background-color: rgba(0, 0, 0, 0.2);
 }
@@ -77,17 +75,14 @@
   margin-top: 0px;
 }
 
-.banner-area {
-}
+
 
 .service-area {
   background-color:
-
 }
 
 .title {
   margin-top: 0px;
-
 }
 
 .section-gap {
@@ -167,8 +162,6 @@ margin-top: -5px;
   margin-top: 80px;
 }
 
-
-
 .kim {
   background-color: #4099FF;
   margin-top: -60px;
@@ -181,7 +174,6 @@ margin-top: -5px;
   color:#777777;
   /* font-size: 20px; */
   margin-bottom: -5px;
-
 }
 
 .projectprintname {
