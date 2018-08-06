@@ -284,4 +284,29 @@ iframe {
   margin-top: -20px;
 }
 
+.slideUp {
+  color: #88d200;
+}
 
+.slideLeft {
+  color: #88d200;
+}
+
+.aboutdescrip{
+  font-size: 22px;
+  font-weight: 100;
+  line-height: 28px;
+}
+
+.firstcharacter {
+  /* color: #88d200; */  */
+  /* color: white; */
+  float: left;
+  /* text-shadow: 2px 2px 4px #000000; */
+  /* font-family: Georgia; */
+  font-size: 40px;
+  line-height: 10px;
+  padding-top: -10px;
+  padding-right: 8px;
+  padding-left: 0px;
+}
