@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-Click here to visit:   https://southerngirl13.github.io/kjs-portfolio/index.html
+Click here to visit:   www.KimberlySwope.com
 </h3>
 <br>
 
